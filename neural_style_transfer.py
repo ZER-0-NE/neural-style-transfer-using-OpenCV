@@ -1,3 +1,7 @@
+#Usage
+
+# python neural_style_transfer.py --image images/1.jpg --model models/instance_norm/starry_night.t7
+
 import argparse
 import numpy
 import cv2
